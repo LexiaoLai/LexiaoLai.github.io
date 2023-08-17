@@ -10,7 +10,7 @@ redirect_from:
 
 I am Lexiao Lai 赖乐潇, a fifth-year Ph.D. student at [Columbia IEOR](https://ieor.columbia.edu/). My research is in nonconvex optimization, applied semi-algebraic geometry, and data science. I am very fortunate to be advised by [Prof. Cédric Josz](https://sites.google.com/site/cedricjosz/). Prior to Columbia, I received my Bachelor of Science in Mathematics from [the University of Hong Kong](https://www.hku.hk/).
 
-
+[[My Curriculum Vitae](/Lai_Lexiao_CV.pdf)]
 
 **Email:** lexiao.lai@columbia.edu  
 
