@@ -23,8 +23,7 @@ I am Lexiao Lai 赖乐潇, a fifth-year Ph.D. student at [Columbia IEOR](https:/
 7. Elliot Cartee, Lexiao Lai, Qianli Song, Alexander Vladimirsky, [Time-dependent surveillance-evasion games](https://eikonal-equation.github.io/TimeDependent_SEG/), *58th IEEE Conference on Decision and Control*, 2019 [[preprint](https://arxiv.org/abs/1903.01332)]
 
 ## Upcoming talks
-1. UCSD Optimization and Data Science Seminar, San Diego, October 4th 2023, *Global stability of first-order methods for coercive tame functions* [[talk details](https://mathweb.ucsd.edu/~njw/Teaching/OptimSeminar/OptSeminar_fa23.html)]
-2. INFORMS Annual Meeting, Phoenix, October 17th 2023, *Global stability of first-order methods for coercive tame functions* [[talk details](https://www.abstractsonline.com/pp8/?__hstc=194041586.d89a8d7b3718c3cbc70c9c235b199d9a.1690335181516.1691463308884.1692235776856.8&__hssc=194041586.1.1692235776856&__hsfp=3439982503&hsCtaTracking=8f511889-324a-41b3-a438-37ad295392e9%7C0c80c5d7-cc8d-4989-9b70-52de4c44b90b#!/10856/presentation/4808)]
+1. INFORMS Annual Meeting, Phoenix, October 17th 2023, *Global stability of first-order methods for coercive tame functions* [[talk details](https://www.abstractsonline.com/pp8/?__hstc=194041586.d89a8d7b3718c3cbc70c9c235b199d9a.1690335181516.1691463308884.1692235776856.8&__hssc=194041586.1.1692235776856&__hsfp=3439982503&hsCtaTracking=8f511889-324a-41b3-a438-37ad295392e9%7C0c80c5d7-cc8d-4989-9b70-52de4c44b90b#!/10856/presentation/4808)]
 
 
 <br><br><br><script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=Gdy9sgTo6hTpkNAjMHFIYVC3ZGv6K11WYiFCowwOQJQ&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
