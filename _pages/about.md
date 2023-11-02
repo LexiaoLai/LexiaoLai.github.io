@@ -14,7 +14,7 @@ I am Lexiao Lai 赖乐潇, a fifth-year Ph.D. student at [Columbia IEOR](https:/
 
 **Email:** lexiao.lai@columbia.edu  
 
-## Preprints and publications
+## Papers
 1. Cédric Josz, Lexiao Lai, [Global stability of first-order methods for coercive tame functions](https://link.springer.com/article/10.1007/s10107-023-02020-9), *Mathematical Programming*, 2023 [[preprint](https://arxiv.org/abs/2308.00899)]
 2. Cédric Josz, Lexiao Lai, Xiaopeng Li, Convergence of the momentum method for semi-algebraic functions with locally Lipschitz gradients, *SIAM Journal on Optimization (to appear)*, 2023 [[preprint](https://arxiv.org/abs/2307.03331)]
 3. Cédric Josz, Lexiao Lai, Sufficient conditions for instability of the subgradient method with constant step size, *SIAM Journal on Optimization (to appear)*, 2023 [[preprint](https://arxiv.org/abs/2211.14852)]
