@@ -15,8 +15,8 @@ I am Lexiao Lai 赖乐潇, a fifth-year Ph.D. student at [Columbia IEOR](https:/
 **Email:** lexiao.lai@columbia.edu  
 
 ## Papers
-1. Cédric Josz, Lexiao Lai, [Global stability of first-order methods for coercive tame functions](https://link.springer.com/article/10.1007/s10107-023-02020-9), *Mathematical Programming*, 2023 [[preprint](https://arxiv.org/abs/2308.00899)]
-2. Cédric Josz, Lexiao Lai, Xiaopeng Li, Convergence of the momentum method for semi-algebraic functions with locally Lipschitz gradients, *SIAM Journal on Optimization (to appear)*, 2023 [[preprint](https://arxiv.org/abs/2307.03331)]
+1.  Cédric Josz, Lexiao Lai, Xiaopeng Li, [Convergence of the momentum method for semi-algebraic functions with locally Lipschitz gradients](https://epubs.siam.org/doi/10.1137/23M1545720), *SIAM Journal on Optimization*, 2023 [[preprint](https://arxiv.org/abs/2307.03331)] 
+2. Cédric Josz, Lexiao Lai, [Global stability of first-order methods for coercive tame functions](https://link.springer.com/article/10.1007/s10107-023-02020-9), *Mathematical Programming*, 2023 [[preprint](https://arxiv.org/abs/2308.00899)]
 3. Cédric Josz, Lexiao Lai, Sufficient conditions for instability of the subgradient method with constant step size, *SIAM Journal on Optimization (to appear)*, 2023 [[preprint](https://arxiv.org/abs/2211.14852)]
 5. Cédric Josz, Lexiao Lai, [Lyapunov stability of the subgradient method with constant step size](https://doi.org/10.1007/s10107-023-01936-6), *Mathematical Programming*, 2023 [[preprint](https://arxiv.org/abs/2211.14850)]
 6. Cédric Josz, Lexiao Lai, [Nonsmooth rank-one matrix factorization landscape](https://doi.org/10.1007/s11590-021-01819-9), *Optimization Letters*, 2021 [[preprint](https://arxiv.org/abs/2211.14848)]
