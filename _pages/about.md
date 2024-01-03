@@ -22,6 +22,9 @@ I am Lexiao Lai 赖乐潇, a fifth-year Ph.D. student at [Columbia IEOR](https:/
 6. Cédric Josz, Lexiao Lai, [Nonsmooth rank-one matrix factorization landscape](https://doi.org/10.1007/s11590-021-01819-9), *Optimization Letters*, 2021 [[preprint](https://arxiv.org/abs/2211.14848)]
 7. Elliot Cartee, Lexiao Lai, Qianli Song, Alexander Vladimirsky, [Time-dependent surveillance-evasion games](https://eikonal-equation.github.io/TimeDependent_SEG/), *58th IEEE Conference on Decision and Control*, 2019 [[preprint](https://arxiv.org/abs/1903.01332)]
 
+## Upcoming talks
+1. IMS Young Mathematical Scientists Forum — Applied Mathematics, Singapore, Jan 9th 2024, *Global stability of first-order methods for coercive tame functions*
+
 
 
 
