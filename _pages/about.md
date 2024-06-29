@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am Lexiao Lai 赖乐潇, a fifth-year Ph.D. student at [Columbia IEOR](https://ieor.columbia.edu/). My research is in nonconvex optimization, applied semialgebraic geometry, and data science. I am very fortunate to be advised by [Prof. Cédric Josz](https://sites.google.com/site/cedricjosz/). Prior to Columbia, I received my Bachelor of Science in Mathematics from [the University of Hong Kong](https://www.hku.hk/).
+I am Lexiao Lai 赖乐潇, an Assistant Professor in the [Department of Mathematics](https://hkumath.hku.hk/web/index.php) at the University of Hong Kong. My research is in nonconvex optimization, applied semialgebraic geometry, and data science. I received my Ph.D. degree from Columbia University in May 2024.
 
 [[Curriculum Vitae](/Lai_Lexiao_CV.pdf)] [[Google Scholar](https://scholar.google.com/citations?user=pMOxAswAAAAJ&hl=en)]
 
-**Email:** lexiao.lai@columbia.edu  
+**Email:** lai.lexiaohku.hk 
 
 ## Papers
 1. (with Cédric Josz) Sufficient conditions for instability of the subgradient method with constant step size, *SIAM Journal on Optimization*, 2024 [[doi](https://epubs.siam.org/doi/abs/10.1137/22M1535723)] [[preprint](https://arxiv.org/abs/2211.14852)]
