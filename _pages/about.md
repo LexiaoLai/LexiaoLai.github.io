@@ -12,7 +12,7 @@ I am Lexiao Lai 赖乐潇, an Assistant Professor in the [Department of Mathemat
 
 [[Curriculum Vitae](/Lai_Lexiao_CV.pdf)] [[Google Scholar](https://scholar.google.com/citations?user=pMOxAswAAAAJ&hl=en)]
 
-**Email:** lai.lexiaohku.hk 
+**Email:** lai dot lexiao at hku dot hk
 
 ## Papers
 1. (with Cédric Josz) Sufficient conditions for instability of the subgradient method with constant step size, *SIAM Journal on Optimization*, 2024 [[doi](https://epubs.siam.org/doi/abs/10.1137/22M1535723)] [[preprint](https://arxiv.org/abs/2211.14852)]
