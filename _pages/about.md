@@ -12,7 +12,7 @@ I am Lexiao Lai 赖乐潇, an Assistant Professor in the [Department of Mathemat
 
 [[Curriculum Vitae](/Lai_Lexiao_CV.pdf)] [[Google Scholar](https://scholar.google.com/citations?user=pMOxAswAAAAJ&hl=en)]
 
-**Email:** lai dot lexiao at hku dot hk
+**Email:** Lai dot Lexiao at hku dot hk
 
 **Prospective Students:** I am actively looking for a highly motivated Ph.D. student who is interested in the theory of optimization and data science. Ideal candidates will have a solid background in mathematics, with proficiency in programming being highly desirable. If you are interested in working with me, please email me your CV and transcripts.
 
