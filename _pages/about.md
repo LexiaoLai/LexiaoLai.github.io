@@ -16,13 +16,14 @@ I am Lexiao Lai 赖乐潇, an Assistant Professor in the [Department of Mathemat
 
 **Prospective Students:** I am actively looking for a self-motivated Ph.D. student who is interested in the theory of optimization and data science. Ideal candidates will have a solid background in mathematics, with proficiency in programming being highly desirable. If you are interested in working with me, please email me your CV and transcripts.
 
-## Papers
-1. (with Cédric Josz) Sufficient conditions for instability of the subgradient method with constant step size, *SIAM Journal on Optimization*, 2024 [[doi](https://epubs.siam.org/doi/abs/10.1137/22M1535723)] [[preprint](https://arxiv.org/abs/2211.14852)]
-2. (with Cédric Josz and Xiaopeng Li) Convergence of the momentum method for semialgebraic functions with locally Lipschitz gradients, *SIAM Journal on Optimization*, 2023 [[doi](https://epubs.siam.org/doi/10.1137/23M1545720)] [[preprint](https://arxiv.org/abs/2307.03331)]
-3. (with Cédric Josz) Global stability of first-order methods for coercive tame functions, *Mathematical Programming*, 2023 [[doi](https://link.springer.com/article/10.1007/s10107-023-02020-9)] [[preprint](https://arxiv.org/abs/2308.00899)]
-4. (with Cédric Josz) Lyapunov stability of the subgradient method with constant step size, *Mathematical Programming*, 2023 [[doi](https://doi.org/10.1007/s10107-023-01936-6)] [[preprint](https://arxiv.org/abs/2211.14850)]
-5. (with Cédric Josz) Nonsmooth rank-one matrix factorization landscape, *Optimization Letters*, 2021 [[doi](https://doi.org/10.1007/s11590-021-01819-9)] [[preprint](https://arxiv.org/abs/2211.14848)]
-6. (with Elliot Cartee, Qianli Song, and Alexander Vladimirsky) Time-dependent surveillance-evasion games, *58th IEEE Conference on Decision and Control*, 2019 [[website](https://eikonal-equation.github.io/TimeDependent_SEG/)] [[doi](https://ieeexplore-ieee-org.ezproxy.cul.columbia.edu/document/9029329)] [[preprint](https://arxiv.org/abs/1903.01332)]
+## Preprints and Publications
+1. (with Cédric Josz and Xiaopeng Li) Proximal random reshuffling under local Lipschitz continuity, *arXiv preprint*, 2024  [[preprint](https://arxiv.org/abs/2408.07182)]
+2. (with Cédric Josz) Sufficient conditions for instability of the subgradient method with constant step size, *SIAM Journal on Optimization*, 2024 [[doi](https://epubs.siam.org/doi/abs/10.1137/22M1535723)] [[preprint](https://arxiv.org/abs/2211.14852)]
+3. (with Cédric Josz and Xiaopeng Li) Convergence of the momentum method for semialgebraic functions with locally Lipschitz gradients, *SIAM Journal on Optimization*, 2023 [[doi](https://epubs.siam.org/doi/10.1137/23M1545720)] [[preprint](https://arxiv.org/abs/2307.03331)]
+4. (with Cédric Josz) Global stability of first-order methods for coercive tame functions, *Mathematical Programming*, 2023 [[doi](https://link.springer.com/article/10.1007/s10107-023-02020-9)] [[preprint](https://arxiv.org/abs/2308.00899)]
+5. (with Cédric Josz) Lyapunov stability of the subgradient method with constant step size, *Mathematical Programming*, 2023 [[doi](https://doi.org/10.1007/s10107-023-01936-6)] [[preprint](https://arxiv.org/abs/2211.14850)]
+6. (with Cédric Josz) Nonsmooth rank-one matrix factorization landscape, *Optimization Letters*, 2021 [[doi](https://doi.org/10.1007/s11590-021-01819-9)] [[preprint](https://arxiv.org/abs/2211.14848)]
+7. (with Elliot Cartee, Qianli Song, and Alexander Vladimirsky) Time-dependent surveillance-evasion games, *58th IEEE Conference on Decision and Control*, 2019 [[website](https://eikonal-equation.github.io/TimeDependent_SEG/)] [[doi](https://ieeexplore-ieee-org.ezproxy.cul.columbia.edu/document/9029329)] [[preprint](https://arxiv.org/abs/1903.01332)]
 
 
 
