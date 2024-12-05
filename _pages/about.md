@@ -14,8 +14,6 @@ I am Lexiao Lai 赖乐潇, an Assistant Professor in the [Department of Mathemat
 
 **Email:** Lai dot Lexiao at hku dot hk
 
-**Prospective Students:** I am actively looking for a self-motivated Ph.D. student who is interested in the theory of optimization and data science. Ideal candidates will have a solid background in mathematics, with proficiency in programming being highly desirable. If you are interested in working with me, please email me your CV and transcripts.
-
 ## Preprints and Publications
 1. (with Cédric Josz and Xiaopeng Li) Proximal random reshuffling under local Lipschitz continuity, *arXiv preprint*, 2024  [[preprint](https://arxiv.org/abs/2408.07182)]
 2. (with Cédric Josz) Sufficient conditions for instability of the subgradient method with constant step size, *SIAM Journal on Optimization*, 2024 [[doi](https://epubs.siam.org/doi/abs/10.1137/22M1535723)] [[preprint](https://arxiv.org/abs/2211.14852)]
